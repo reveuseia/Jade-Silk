@@ -1,0 +1,206 @@
+[
+    {
+        "merged": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-merged_res-61:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-main-63:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-merged_res-61:\\layout_activity_detail_doll.xml.flat",
+        "source": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-main-63:\\layout\\activity_detail_doll.xml"
+    },
+    {
+        "merged": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-merged_res-61:\\drawable_edittext_border.xml.flat",
+        "source": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-main-63:\\drawable\\edittext_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-merged_res-61:\\menu_botnav_menu.xml.flat",
+        "source": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-main-63:\\menu\\botnav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-merged_res-61:\\drawable_c6.png.flat",
+        "source": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-main-63:\\drawable\\c6.png"
+    },
+    {
+        "merged": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-merged_res-61:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-main-63:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-merged_res-61:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-main-63:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-merged_res-61:\\layout_activity_maps.xml.flat",
+        "source": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-main-63:\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-merged_res-61:\\drawable_reveal_pass_logo.xml.flat",
+        "source": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-main-63:\\drawable\\reveal_pass_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-merged_res-61:\\drawable_button_border.xml.flat",
+        "source": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-main-63:\\drawable\\button_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-merged_res-61:\\drawable_round_person_24.xml.flat",
+        "source": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-main-63:\\drawable\\round_person_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-merged_res-61:\\drawable_c2.png.flat",
+        "source": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-main-63:\\drawable\\c2.png"
+    },
+    {
+        "merged": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-merged_res-61:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-main-63:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-merged_res-61:\\drawable_c9.png.flat",
+        "source": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-main-63:\\drawable\\c9.png"
+    },
+    {
+        "merged": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-merged_res-61:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-main-63:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-merged_res-61:\\drawable_c5.png.flat",
+        "source": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-main-63:\\drawable\\c5.png"
+    },
+    {
+        "merged": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-merged_res-61:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-main-63:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-merged_res-61:\\drawable_hat.png.flat",
+        "source": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-main-63:\\drawable\\hat.png"
+    },
+    {
+        "merged": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-merged_res-61:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-main-63:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-merged_res-61:\\drawable_c1.png.flat",
+        "source": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-main-63:\\drawable\\c1.png"
+    },
+    {
+        "merged": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-merged_res-61:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-main-63:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-merged_res-61:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-main-63:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-merged_res-61:\\drawable_home.xml.flat",
+        "source": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-main-63:\\drawable\\home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-merged_res-61:\\drawable_c8.png.flat",
+        "source": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-main-63:\\drawable\\c8.png"
+    },
+    {
+        "merged": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-merged_res-61:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-main-63:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "com.example.puffandpoof.app-merged_res-61:/layout_activity_otp.xml.flat",
+        "source": "com.example.puffandpoof.app-main-63:/layout/activity_otp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-merged_res-61:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-main-63:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-merged_res-61:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-main-63:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-merged_res-61:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-main-63:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-merged_res-61:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-pngs-55:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-merged_res-61:\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-main-63:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-merged_res-61:\\layout_doll_list_transaction.xml.flat",
+        "source": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-main-63:\\layout\\doll_list_transaction.xml"
+    },
+    {
+        "merged": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-merged_res-61:\\drawable_c4.png.flat",
+        "source": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-main-63:\\drawable\\c4.png"
+    },
+    {
+        "merged": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-merged_res-61:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-main-63:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-merged_res-61:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-main-63:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-merged_res-61:\\color_navigation_color.xml.flat",
+        "source": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-main-63:\\color\\navigation_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-merged_res-61:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-main-63:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-merged_res-61:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-main-63:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-merged_res-61:\\drawable_cell.png.flat",
+        "source": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-main-63:\\drawable\\cell.png"
+    },
+    {
+        "merged": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-merged_res-61:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-main-63:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-merged_res-61:\\drawable_c7.png.flat",
+        "source": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-main-63:\\drawable\\c7.png"
+    },
+    {
+        "merged": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-merged_res-61:\\layout_activity_profile.xml.flat",
+        "source": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-main-63:\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-merged_res-61:\\layout_activity_otp.xml.flat",
+        "source": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-main-63:\\layout\\activity_otp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-merged_res-61:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-main-63:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-merged_res-61:\\navigation_nav_main.xml.flat",
+        "source": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-main-63:\\navigation\\nav_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-merged_res-61:\\drawable_rounded_card_background.xml.flat",
+        "source": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-main-63:\\drawable\\rounded_card_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-merged_res-61:\\drawable_round_local_shipping_24.xml.flat",
+        "source": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-main-63:\\drawable\\round_local_shipping_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-merged_res-61:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-main-63:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-merged_res-61:\\drawable_c3.png.flat",
+        "source": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-main-63:\\drawable\\c3.png"
+    },
+    {
+        "merged": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-merged_res-61:\\layout_doll_list.xml.flat",
+        "source": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-main-63:\\layout\\doll_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-merged_res-61:\\layout_fragment_transaction.xml.flat",
+        "source": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-main-63:\\layout\\fragment_transaction.xml"
+    }
+]

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "691776957872",
+    "project_id": "intellectra-7812f",
+    "storage_bucket": "intellectra-7812f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691776957872:android:e17660c73ff65d936d7a75",
+        "android_client_info": {
+          "package_name": "com.example.puffandpoof"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZFdjjp0MzibsoTLTKaJiOiKQ43cs_kAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

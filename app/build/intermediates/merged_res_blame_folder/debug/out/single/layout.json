@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-mergeDebugResources-60:\\layout\\activity_detail_doll.xml",
+        "source": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-main-63:\\layout\\activity_detail_doll.xml"
+    },
+    {
+        "merged": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-mergeDebugResources-60:\\layout\\activity_maps.xml",
+        "source": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-main-63:\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "com.example.puffandpoof.app-mergeDebugResources-60:/layout/activity_otp.xml",
+        "source": "com.example.puffandpoof.app-main-63:/layout/activity_otp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-mergeDebugResources-60:\\layout\\fragment_transaction.xml",
+        "source": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-main-63:\\layout\\fragment_transaction.xml"
+    },
+    {
+        "merged": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-mergeDebugResources-60:\\layout\\fragment_profile.xml",
+        "source": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-main-63:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-mergeDebugResources-60:\\layout\\activity_otp.xml",
+        "source": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-main-63:\\layout\\activity_otp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-mergeDebugResources-60:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-main-63:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-mergeDebugResources-60:\\layout\\activity_register.xml",
+        "source": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-main-63:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-mergeDebugResources-60:\\layout\\doll_list.xml",
+        "source": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-main-63:\\layout\\doll_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-mergeDebugResources-60:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-main-63:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-mergeDebugResources-60:\\layout\\activity_profile.xml",
+        "source": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-main-63:\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-mergeDebugResources-60:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-main-63:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-mergeDebugResources-60:\\layout\\doll_list_transaction.xml",
+        "source": "C:\\Users\\Steven\\.gradle\\daemon\\7.5\\com.example.puffandpoof.app-main-63:\\layout\\doll_list_transaction.xml"
+    }
+]

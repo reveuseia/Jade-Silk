@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    android:background="@color/darkJade"
+    tools:context=".DetailDollActivity">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:paddingHorizontal="20dp"
+        android:gravity="center_vertical">
+
+        <Button
+            android:id="@+id/backhome"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/lightJade"
+            android:text="back"
+            android:layout_marginRight="30dp"
+
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Details"
+            android:textSize="20sp"
+            android:textColor="@color/white"
+            android:layout_marginStart="50dp"
+            android:textStyle="bold"/>
+
+
+
+    </LinearLayout>
+    <ImageView
+        android:id="@+id/dtldoll"
+        android:layout_width="match_parent"
+        android:layout_height="350dp"
+        app:srcCompat="@drawable/c1" />
+
+    <TextView
+        android:id="@+id/ttl"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:text="Doll name"
+        android:textSize="25sp"
+        android:gravity="center"
+        android:textStyle="bold" />
+
+<!--    <TextView-->
+<!--        android:id="@+id/dollID"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:textColor="@color/black"-->
+<!--        android:text="Doll ID"-->
+<!--        android:textSize="30dp"-->
+<!--        android:textStyle="bold" />-->
+
+    <TextView
+        android:id="@+id/braaand"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:text="brand"
+        android:textSize="20sp"
+        android:layout_marginTop="20dp"
+        android:layout_marginStart="15dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/descTV"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:text="Desc"
+        android:textSize="15sp"
+        android:layout_marginStart="15dp"
+        android:textStyle="bold"
+        />
+
+    <TextView
+        android:id="@+id/sizel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:text="size"
+        android:textSize="15sp"
+        android:layout_marginStart="15dp"
+        android:textStyle="bold" />
+
+
+    <NumberPicker
+        android:id="@+id/quantity_picker"
+        android:layout_width="123dp"
+        android:layout_height="83dp"
+        android:layout_below="@id/add_to_cart_button"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="16dp"
+        android:backgroundTint="@color/white" />
+
+    <RadioButton
+        android:id="@+id/rbHS"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Home Service"
+        android:textColor="@color/white"
+        android:layout_marginStart="15dp"
+        />
+    <Button
+        android:id="@+id/add_to_cart_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Add to Cart"
+        android:layout_centerHorizontal="true"
+        android:backgroundTint="@color/lightJade"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="10dp" />
+
+
+
+
+
+</LinearLayout>

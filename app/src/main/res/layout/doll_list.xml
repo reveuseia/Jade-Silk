@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/carddoll"
+    android:layout_width="match_parent"
+    android:layout_height="150dp"
+    android:orientation="horizontal"
+    android:backgroundTint="@color/white"
+    app:cardCornerRadius="30dp"
+    android:outlineAmbientShadowColor="@color/black"
+    android:outlineSpotShadowColor="@color/black"
+    android:layout_marginBottom="5dp"
+    android:elevation="4dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:padding="15dp">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:gravity="center_vertical">
+
+            <TextView
+                android:id="@+id/ttldol"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Biology"
+                android:textSize="25dp"
+                android:textColor="@color/lightJade"
+                android:textStyle="bold" />
+            <TextView
+                android:id="@+id/size"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Size"
+                android:textColor="@color/lightJade"
+                android:layout_marginTop="10dp"
+                android:textSize="10sp" />
+            <TextView
+                android:id="@+id/brand"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="brand"
+                android:textColor="@color/lightJade"
+                android:layout_marginTop="10dp"
+                android:textSize="10sp" />
+            <TextView
+                android:id="@+id/pricez"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="15000"
+                android:textColor="@color/lightJade"
+                android:layout_marginTop="10dp"
+                android:textSize="10sp" />
+
+        </LinearLayout>
+
+        <com.google.android.material.imageview.ShapeableImageView
+            android:id="@+id/imgdoll"
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:layout_gravity="end"
+            android:src="@drawable/cell" />
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>
+
